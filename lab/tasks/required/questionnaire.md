@@ -9,7 +9,7 @@ Fill in each answer below. Replace `___` with the correct value.
 1. HTTP method: GET
 2. Path: /items
 3. Status code (success): 200
-4. Response type (array or object): JSON
+4. Response type (array or object): array
 
 ### GET /items/{item_id}
 
@@ -19,7 +19,7 @@ Fill in each answer below. Replace `___` with the correct value.
 ### POST /items
 
 1. HTTP method: POST
-2. Status code (created successfully): 200
+2. Status code (created successfully): 201
 
 ### PUT /items/{item_id}
 
